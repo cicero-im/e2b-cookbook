@@ -19,7 +19,7 @@
         "ts-node": "^10.9.2"
     },
     "dependencies": {
-        "dotenv": "^16.4.5",
+        "dotenv": "^16.6.1",
         "e2b": "^0.16.2-beta.52",
         "ignore": "^6.0.2"
     }

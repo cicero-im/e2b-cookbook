@@ -9,10 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ai-sdk/openai": "^0.0.9",
+    "@ai-sdk/openai": "^3.0.30",
     "@e2b/code-interpreter": "^1.0.1",
-    "ai": "^3.1.1",
-    "next": "^14.2.3",
+    "ai": "^5.0.52",
+    "next": "^15.5.10",
     "openai": "^4.40.1"
   },
   "devDependencies": {

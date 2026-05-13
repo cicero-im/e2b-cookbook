@@ -11,8 +11,8 @@
   "dependencies": {
     "@ai-sdk/openai": "^0.0.9",
     "@e2b/code-interpreter": "^1.0.1",
-    "ai": "^3.1.1",
-    "next": "^14.2.3",
+    "ai": "^5.0.52",
+    "next": "^15.5.18",
     "openai": "^4.40.1"
   },
   "devDependencies": {
@@ -22,7 +22,7 @@
     "autoprefixer": "^10.4.14",
     "eslint": "^7.32.0",
     "eslint-config-next": "13.4.12",
-    "postcss": "^8.4.23",
+    "postcss": "^8.5.10",
     "tailwindcss": "^3.3.2",
     "typescript": "5.1.3"
   }
